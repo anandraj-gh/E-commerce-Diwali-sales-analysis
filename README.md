@@ -1,12 +1,12 @@
 # 🛒 E-Commerce Data Analysis Project
 </br>
-This project focuses on **Exploratory Data Analysis (EDA)** using a real-world e-commerce dataset. The goal was to uncover key trends and customer behaviors using **Pandas**, **Matplotlib**, and **Seaborn**.
+This project focuses on Exploratory Data Analysis (EDA) using a real-world e-commerce dataset. The goal was to uncover key trends and customer behaviors using Pandas, Matplotlib, and Seaborn.
 
 ---
 
 ## 📌 Key Operations Performed
 
--  Total count of **male and female** customers
+-  Total count of male and female customers
 -  Which gender spends more
 -  Which marital status contributes to more sales
 -  Top 10 states by sales/orders
@@ -58,14 +58,6 @@ This project focuses on **Exploratory Data Analysis (EDA)** using a real-world e
 - Barplot of Orders/Sales by State
 - Barplot of Occupation vs Orders
 - Category-wise purchase trends
-
----
-
-## 📈 Next Steps (Optional Enhancements)
-
-- Create a Power BI or Tableau dashboard
-- Apply time-series analysis if date available
-- Build customer segmentation using clustering (ML)
 
 ---
 
